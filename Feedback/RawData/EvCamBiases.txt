@@ -1,0 +1,5 @@
+bias_diff_on:445
+bias_diff_off:257
+bias_fo:1477
+bias_hpf:1499
+bias_refr:1500
