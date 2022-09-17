@@ -2,7 +2,7 @@
 
 This is a public repository of DVS event camera data sets. 
 
-The data in "SlowExpansion" and "Feedback" is used to generate results of our publication "Event-based Vision in Magneto-Optic Kerr Effect Microscopy", which describes details of the experiments. (doi link to be added)
+The data in "SlowExpansion" and "Feedback" is used to generate results of our publication "Event-based Vision in Magneto-Optic Kerr Effect Microscopy", which describes details of the experiments. (https://doi.org/10.1063/5.0090714)
 
 The data in "ExtraData" is extra data not in the publication.
 
